@@ -2,7 +2,7 @@
 
 ## Ways to connect with me
 <img align="left" width="150" height="150" src="https://github.com/ChrisZie/ChrisZie/blob/main/octochristine/octochristine.gif?raw=true"></a>
-- <a href="https://github.com/ChrisZie">Twitter</a> 🐦
+- <a href="https://twitter.com/ChrisZie_">Twitter</a> 🐦
 - <a href="https://dev.to/chriszie">Stuff I'm writing about</a> 💻
 - <a href="https://www.linkedin.com/in/chriszie">LinkedIn</a> 💼
 
