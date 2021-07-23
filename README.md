@@ -23,6 +23,7 @@
 ## What I write about
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to HIGHLIGHT text with Cypress](https://dev.to/chriszie/how-to-highlight-text-with-cypress-43do)
 - [UI Test Automation Frameworks Showdown: TestCafé versus Nightwatch.js](https://dev.to/chriszie/ui-test-automation-frameworks-showdown-testcafe-versus-nightwatch-js-2e8h)
 - [Data-QA Attribute! A better way to select elements for UI test automation](https://dev.to/chriszie/data-qa-attribute-a-better-way-to-select-elements-for-ui-test-automation-48lm)
@@ -40,6 +41,8 @@
 
 ## Some Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chriszie&show_icons=true&locale=en&layout=compact" alt="chriszie" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chriszie&show_icons=true&locale=en" alt="chriszie" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chriszie&" alt="chriszie" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chriszie&show_icons=true&locale=en&layout=compact)]()
+
+[![ChrisZie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriszie&show_icons=true&locale=en)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisZie&theme=tokyonight_duo)]()
