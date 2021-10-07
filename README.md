@@ -1,6 +1,6 @@
 <img align="left" width="200" height="200" src="https://github.com/ChrisZie/ChrisZie/blob/main/octochristine/octochristine.gif?raw=true"></a>
 
-<h1 align="center">Hello 👋 👩‍, I'm Christine</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307181F&size=30&width=500&lines=Hello+%F0%9F%91%8B+%F0%9F%91%A9%E2%80%8D%2C+I'm+Christine)](https://git.io/typing-svg)
 <h3 align="center">Passionate about making a change. #ChangeMaker</h3>
 <div align="center">
   
