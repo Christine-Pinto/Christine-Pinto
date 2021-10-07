@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@ChrisZie_: “#Live as if you were to die tomorrow. Learn as if you were to live forever.”― Mahatma #Gandhi#quoteoftheday](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cf6a16d74d815079362d66ce7c5127b1d)
 - [@kaggle: 🚀 You're invited to our super fun, beginner-friendly learning challenge, #30daysofML. First 2 weeks: rapidly cover essential machine learning skills. Last 2 weeks: join others in an invite-only, low pressure Kaggle competition. Sign up now, starts Aug 2!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e143eb5e6cee7c809918773d2f150f40868dfdf6ff7ab637bd8130f9467d068e5c0)
 - [@RookieSketches: I love it when talks guide us through reflections and that’s what ⁦@TestingWithFun⁩ did exactly! #TestBash Home 2021 #Automation](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2d30bdeacbe7b411809264cfe70cea4f2d899a2db0bd6b79df11089462d26fe8c51573148a32c66086)
 - [@ChrisZie_: You can contribute to #automation without wiriting code in so many different ways. Talk/slide by @TestingWithFun #TestBash #TestAutomation @ministryoftest](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da68f6a56d7dda12069b64dc6ee1c0127e14)
 - [@ChrisZie_: Really amazing talk by @chr_kram and super awesome notes by @RookieSketches David Rock's SCARF Model-](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da68f6a56c7edb160d9568dd6ce1c5177e1d)
-- [@rintomarkose: Do you know how to ask a question by @chr_kram is very insightful and interesting #testbash](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d36bcf5cdef86088e8974c2ad0cb15d2d9d9d77f2a66a78d8120e9164d36ae2c2177315893ec3)
 <!-- TWITTER:END -->
 
 ## Some Stats
