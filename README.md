@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
-- [@ChrisZie_: “#Live as if you were to die tomorrow. Learn as if you were to live forever.”― Mahatma #Gandhi#quoteoftheday](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cf6a16d74d815079362d66ce7c5127b1d)
-- [@kaggle: 🚀 You're invited to our super fun, beginner-friendly learning challenge, #30daysofML. First 2 weeks: rapidly cover essential machine learning skills. Last 2 weeks: join others in an invite-only, low pressure Kaggle competition. Sign up now, starts Aug 2!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e143eb5e6cee7c809918773d2f150f40868dfdf6ff7ab637bd8130f9467d068e5c0)
-- [@RookieSketches: I love it when talks guide us through reflections and that’s what ⁦@TestingWithFun⁩ did exactly! #TestBash Home 2021 #Automation](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2d30bdeacbe7b411809264cfe70cea4f2d899a2db0bd6b79df11089462d26fe8c51573148a32c66086)
-- [@ChrisZie_: You can contribute to #automation without wiriting code in so many different ways. Talk/slide by @TestingWithFun #TestBash #TestAutomation @ministryoftest](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da68f6a56d7dda12069b64dc6ee1c0127e14)
-- [@ChrisZie_: Really amazing talk by @chr_kram and super awesome notes by @RookieSketches David Rock's SCARF Model-](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da68f6a56c7edb160d9568dd6ce1c5177e1d)
+- [@ChrisZie_: project and you can use their API to display it on your GitHub profilee](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cf5a36979dd140d9066d36ae7c5167b14)
+- [@ChrisZie_: Day 4 of #30DaysOfToolsI span the wheel of 🧰🛠️.I got @editthiscookie -  will try it out and tell you guys how it is.@ministryoftest](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cf5a3687adf1c0c9566d26ee9c7117311)
+- [@ChrisZie_: Day4 of #30DaysOfTools Spin a wheel of tools](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cf5a3687bdb100c9663d668e1ca1a721d)
+- [@ChrisZie_: #30DaysOfTools What is the biggest turn-off when evaluating a new tool?Missing documentation📝. I think everybody knows what I mean by that.@ministryoftest](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cf5a3687bde110f9563d36be4cb147214)
+- [@ChrisZie_: #30DaysOfTools How do you know you’ve found “the one”? Not sure if there is “the one”. All tools have their advantages & disadvantages. I think the one is the tool that helps me the most with the current issue I’m experiencing. You should always keep your eyes open for new tools](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cf5a3687bde10089168d560e4c7127f1c)
 <!-- TWITTER:END -->
 
 ## Some Stats
