@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@ChrisZie_: I'm blown away by this awesome #BlobOpera is! Play four opera voices and see them perform in cities around the world. Here's one I made for Paris, France 🎼  via @googlearts](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cfbab6974d91d099264d66be4c31a7b1d)
 - [@SeleniumHQ: It's happening!!! We are going to be releasing Selenium 4 to the world!We are going to be doing the tagging and the releases! You can come to join us and celebrate at 2PM BST/1PM GMT/3PM CEST  #selenium4](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3abee4cceb9217adb728d4f61eb1492ac7df6cf7aa687dd7170f9563d56de3c3107f158c)
 - [@ChrisZie_: Day 10 of #30DaysOfTools "Share an article about tools you’ve recently read"I read this comparison about #visualtesting tools. It's factual and gives you a good overview of the visual #testingtools on the market.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cf4ab6e7adf110d9667d46be7cb167c16)
 - [@ChrisZie_: Day 9 of #30DaysOfToolsAdded the demo of #fakerJS as a tool. You can use faker.js in your code to generate fake data, but you can also use their demo to have fake data easily accessible if you do some #manualTesting.@ministryoftest](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cf4a0697dd81c0c9167d16de4c5167f1c)
 - [@ChrisZie_: I just added @github actions, including saving videos or screenshots as build artifacts, to my repository from last years #automationweek challenge by @ministryoftest](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cf5a66e78d6100e9a67d76fe2c11b7e17)
-- [@ChrisZie_: project and you can use their API to display it on your GitHub profilee](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d88e1fbac974d3e30bb04f76d9da6cf5a36979dd140d9066d36ae7c5167b14)
 <!-- TWITTER:END -->
 
 ## Some Stats
