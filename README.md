@@ -4,9 +4,9 @@
 <h3 align="center">Passionate about making a change. #ChangeMaker</h3>
 <div align="center">
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/ChrisZie_?label=Follow)](https://twitter.com/intent/follow?screen_name=ChrisZie_)
-[![Linkedin: ChrisZie](https://img.shields.io/badge/-ChrisZie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ChrisZie/)](https://www.linkedin.com/in/ChrisZie/)
-![GitHub followers](https://img.shields.io/github/followers/chriszie?label=Follow&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ChrisPint_?label=Follow)](https://twitter.com/intent/follow?screen_name=ChrisPint_)
+[![Linkedin: ChrisPint](https://img.shields.io/badge/-ChrisPint-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ChrisPint/)](https://www.linkedin.com/in/ChrisPint/)
+![GitHub followers](https://img.shields.io/github/followers/ChrisPint?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://chriszie.rocks/)](https://chriszie.rocks/)
   
 </div>
