@@ -23,9 +23,9 @@
 ## What I write about
 
 <!-- BLOG-POST-LIST:START -->
-- [How to HIGHLIGHT text with Cypress](https://dev.to/chriszie/how-to-highlight-text-with-cypress-43do)
-- [UI Test Automation Frameworks Showdown: TestCafé versus Nightwatch.js](https://dev.to/chriszie/ui-test-automation-frameworks-showdown-testcafe-versus-nightwatch-js-2e8h)
-- [Data-QA Attribute! A better way to select elements for UI test automation](https://dev.to/chriszie/data-qa-attribute-a-better-way-to-select-elements-for-ui-test-automation-48lm)
+- [How to HIGHLIGHT text with Cypress](https://dev.to/chrispin/how-to-highlight-text-with-cypress-43do)
+- [UI Test Automation Frameworks Showdown: TestCafé versus Nightwatch.js](https://dev.to/chrispin/ui-test-automation-frameworks-showdown-testcafe-versus-nightwatch-js-2e8h)
+- [Data-QA Attribute! A better way to select elements for UI test automation](https://dev.to/chrispin/data-qa-attribute-a-better-way-to-select-elements-for-ui-test-automation-48lm)
 <!-- BLOG-POST-LIST:END -->
 
 ## What I tweet about
