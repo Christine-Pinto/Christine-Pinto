@@ -15,7 +15,7 @@ jobs:
         with:
           max_post_count: "5"
           comment_tag_name: "TWITTER"
-          feed_list: "https://rss.app/feeds/D18Qhf8ixMkgaHKe.xml"
+          feed_list: "https://rss.app/feeds/rRAFebsePNDsy7G2.xml"
           commit_message: "Updated with the latest tweets"
           committer_username: "twitter-bot"
           committer_email: "twitter-bot@example.com"
