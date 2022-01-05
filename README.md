@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@ecomodernist1:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1a3cbdeccde682088b8f74d3b350b648389c9b2beca36e7ad81d069268d06ee2c0117e16893ec362)
+- [@ChrisPint_: Excited to be part of the #AG2022. See you there :&rpar; #automationguild2022 #guildconferences #testautomation #cypress](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cf4a5637bdb120b9568d26de2c616731d8d)
 - [@ChrisPint_: How can we learn from each other through our frustration in a kind and constructive way?Share, share, share, and listen, listen, listen. We are all one community and we can, should, and try to learn from each other.@ministryoftest #30DaysOfTools](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cf6a0697ade14079a67d76ce6c11b7e1c83)
 - [@ChrisPint_: How can we as a community have greater empathy for the people behind the tools?If you find something which doesn’t work send feedback or create an issue. The problem you encounter might not be known but is easy to fix. @ministryoftest #30DaysOfTools](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cf6a0697ade14079763d561e8c213781589)
 - [@ChrisPint_: Day 16 of #30DaysOfToolsShare your biggest #frustration with testing toolsToo many options &amp; it isn’t clear what the difference is between them &amp; what fits well in my case. You have to literally try them all out &amp; with that comes the problem “Why isn’t it working on MY machine?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cf6a0697ade14079366d669e4c1157d128d)
-- [@ChrisPint_: What is it about the #documentation that helps you as a tool user?Examples for all available options are the most important for me. Keep it up to date. Integrate a checkmark in the PR that new implementations need updated documentation as well as this is often forgotten.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cf6a0697bd71d0c9762dd68e3c7157e108d)
-- [@ChrisPint_: When I use an option that isn’t documented very well I open an issue, fork the repo, add my example, and get a PR ready. It takes me 10 minutes but it saves other people the long googling to find the right way of using this option.#30DaysOfTools](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cf6a0697bd71d0c9369d261e2cb117e178d)
 <!-- TWITTER:END -->
 
 ## Some Stats
