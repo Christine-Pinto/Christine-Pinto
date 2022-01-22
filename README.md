@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@kristine_lutke: Raus aus der Schmuddelecke❗️Hört euch an, was ich heute im Interview mit @wdr5 über die Legalisierung von #Cannabis gesagt habe. 👇🏼](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e142dbbf2d6eb891fba8a72d3e91aea4f2d899a2db0bd6b79d717089a69dd6de6c4167c168d38c26681)
 - [@ecomodernist1:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1a3cbdeccde682088b8f74d3b350b648389c9b2beca36e7ad81d069268d06ee2c0117e16893ec362)
 - [@ChrisPint_: Excited to be part of the #AG2022. See you there :&rpar; #automationguild2022 #guildconferences #testautomation #cypress](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cf4a5637bdb120b9568d26de2c616731d8d)
 - [@ChrisPint_: How can we learn from each other through our frustration in a kind and constructive way?Share, share, share, and listen, listen, listen. We are all one community and we can, should, and try to learn from each other.@ministryoftest #30DaysOfTools](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cf6a0697ade14079a67d76ce6c11b7e1c83)
 - [@ChrisPint_: How can we as a community have greater empathy for the people behind the tools?If you find something which doesn’t work send feedback or create an issue. The problem you encounter might not be known but is easy to fix. @ministryoftest #30DaysOfTools](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cf6a0697ade14079763d561e8c213781589)
-- [@ChrisPint_: Day 16 of #30DaysOfToolsShare your biggest #frustration with testing toolsToo many options &amp; it isn’t clear what the difference is between them &amp; what fits well in my case. You have to literally try them all out &amp; with that comes the problem “Why isn’t it working on MY machine?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cf6a0697ade14079366d669e4c1157d128d)
 <!-- TWITTER:END -->
 
 ## Some Stats
