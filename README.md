@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@ChrisPint_: #Seaweed farming looks promising to battle #climateChange and also help out with food shortages.#KelpFarming #Seaweedfarming](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa36979da150d9660d261e0c1127a1588)
 - [@ChrisPint_: My session is starting at #automationguild. #excited](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa26d79df15079b67d36ae4c71279138c)
 - [@ChrisPint_: Today&#39;s schedule for #automationguild.It will be a packed and awesome first day.#automationguild2022 #testautomation](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa26d7cdf170c9b66d36ce2c6137e1483)
 - [@ChrisPint_: #automationguild is about to start. Excited to join this year as a speaker. See you later#testautomation #automationguild2022](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa26c74d6110d9b69d36de7c4167c1388)
 - [@testguilds: Meet your speakers for tomorrow&#39;s Automation Guild! 😀 @DylanLacey @ChrisPint_ @ek121268 @shohams @Jonathon_Wright @saucelabs @perfectomobile @MicroFocus Check out their speaking schedules here.👉  #ag2022 #automationguild2022](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b3aa1f5c5f78e16819528d4f61eb1492ac7df6cfaa26e74dc1d079165d06de6c7127f1489)
-- [@kristine_lutke: Raus aus der Schmuddelecke❗️Hört euch an, was ich heute im Interview mit @wdr5 über die Legalisierung von #Cannabis gesagt habe. 👇🏼](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e142dbbf2d6eb891fba8a72d3e91aea4f2d899a2db0bd6b79d717089a69dd6de6c4167c168d38c26681)
 <!-- TWITTER:END -->
 
 ## Some Stats
