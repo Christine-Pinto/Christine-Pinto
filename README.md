@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@ChrisPint_: Colette Feehan - &quot;#kelp is a no-brainer when it comes to #carbonsequestration.  via @sciam @running_tide #CDR #CarbonDirectRemoval](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaaa687bd71d0c9169d661e0c4137d1488)
 - [@ChrisPint_: &quot;However, on the deep seafloor &amp; within its sediments, &gt;90% of deposited carbon is typically remineralized &amp; released back into the water column&quot; cited from a paper from @carlosduartephd Other studies said that #seaweed sequestered for 700–900 years or even &gt;1400. Confusing?!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa4627ed816089b62d36de8c31178108d)
 - [@ChrisPint_: Love the way @stripe is doing their Stripe Climate Carbon Removal Purchases. They keep it transparent to also promote #knowledgesharing  #CDR](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa46d75dd17069266dc6de6cb167a1383)
 - [@ChrisPint_: The unique power of #Australianseaweed - @BBCWorld REEL Different amazing approaches to #seaweedFarming](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa66c7edb16069567d361e8c516791383)
 - [@ChrisPint_: #Seaweed farming looks promising to battle #climateChange and also help out with food shortages.#KelpFarming #Seaweedfarming](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa36979da150d9660d261e0c1127a1588)
-- [@ChrisPint_: My session is starting at #automationguild. #excited](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa26d79df15079b67d36ae4c71279138c)
 <!-- TWITTER:END -->
 
 ## Some Stats
