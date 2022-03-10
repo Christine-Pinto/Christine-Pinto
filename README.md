@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@ChrisPint_: Reading more &amp; more about the current R+D &amp; development of Seaweed. I have the feeling that the awesome people from @sos_carbon should speak with the team of @FearlessH2O. Both teams collect Seaweed for different reasons. In the end, we all work together to battle #climateChange](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df3a36f74d913089666d16be2c1107d1589)
 - [@ChrisPint_: &quot;I hope @sos_carbon can serve as a model and inspire similar entrepreneurial efforts&quot; - Luke GrayAmazing Project with little funding but huge results#CDR #CarbonDirectRemoval #Seadweed](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df3a2627bde1d0d9465d56ce8ca147a158c)
 - [@ChrisPint_: Colette Feehan - &quot;#kelp is a no-brainer when it comes to #carbonsequestration.  via @sciam @running_tide #CDR #CarbonDirectRemoval](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaaa687bd71d0c9169d661e0c4137d1488)
 - [@ChrisPint_: &quot;However, on the deep seafloor &amp; within its sediments, &gt;90% of deposited carbon is typically remineralized &amp; released back into the water column&quot; cited from a paper from @carlosduartephd Other studies said that #seaweed sequestered for 700–900 years or even &gt;1400. Confusing?!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa4627ed816089b62d36de8c31178108d)
 - [@ChrisPint_: Love the way @stripe is doing their Stripe Climate Carbon Removal Purchases. They keep it transparent to also promote #knowledgesharing  #CDR](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa46d75dd17069266dc6de6cb167a1383)
-- [@ChrisPint_: The unique power of #Australianseaweed - @BBCWorld REEL Different amazing approaches to #seaweedFarming](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6cfaa66c7edb16069567d361e8c516791383)
 <!-- TWITTER:END -->
 
 ## Some Stats
