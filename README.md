@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@ChrisPint_: The single-celled microbe, which is capable of photosynthesis as well as hunting and eating prey, could be &quot;a secret weapon in the battle against #climatechange&quot;.#CarbonDirectRemoval](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df3ab6279dd10089068d168e8c717781d8e)
 - [@ChrisPint_: 2016 Best #VancouverPoemdouble #cherryblossomsI breathe inthe entire skyRachel EnomotoBurnaby, British Columbia@OfficialVCBF](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df3aa6d7bdd110c9166d46be5c11378148d)
 - [@ChrisPint_: Besides research papers, I also checked out a lot of academies and online courses and this page has a good summary of some of them:  from @carboninfinity_ #CarbonDirectRemoval](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df3aa6d78d7130d9366dc61e8c616721282)
 - [@ChrisPint_: Research, Learning, Research, Learning, and Repeat...Every day I&#39;m going through tons of different information about #carbonDirectRemoval, #sequester, and &lpar;my favorite topic&rpar; #seaweed](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df3aa6d78d7130e9b63dd68e5cb16731188)
 - [@ChrisPint_: &quot;Buy a cow some #seaweed and offset your meat consumption.&quot;I like the approach from @symbrosia . It&#39;s a different kind of offset but it is a really smart idea.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df3aa6d78db140b9b66dc60e3c4177d148e)
-- [@ChrisPint_: Reading more &amp; more about the current R+D &amp; development of Seaweed. I have the feeling that the awesome people from @sos_carbon should speak with the team of @FearlessH2O. Both teams collect Seaweed for different reasons. In the end, we all work together to battle #climateChange](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df3a36f74d913089666d16be2c1107d1589)
 <!-- TWITTER:END -->
 
 ## Some Stats
