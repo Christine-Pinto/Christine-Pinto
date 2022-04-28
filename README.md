@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@stacykauk: 5/15 @xprize $1M Milestone Award winners for carbon removal are supported by the @Shopify Sustainability Fund 🤯Look out because @carbinminerals, @heirloomcarbon, @planetary_tech, @sustaera, and @4401earth are just getting started.Congratulations!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb3e2dbe9860f8ec974d3e30bb04f76d9db69f4a76e75da130d9b66d36ae2c4167916)
 - [@ChrisPint_: Good summary and a good read for #phycologyfriday: &quot;Oceans 2050 results further #seaweed carbon science&quot;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df2a06e7bdc140d9765d56de8c71678158f)
 - [@ChrisPint_: Looking forward to how the industry and the awareness about #seaweed will grow even more.I would also add @symbrosia , @iseaweedsolutions, and @ORainforest to this list as they are doing amazing work with seaweed as well.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df2a36c75da1c0f9a67d66ae3c71b731082)
 - [@ChrisPint_: These are some advantages of seaweed &amp; these 4 Startups &lpar; Kelp Blue, @Sea6Energy , Australian Seaweed Institute, and @cascadiaseaweed&rpar; are utilizing #Seaweed to combat climate change.Looking forward to how the industry and the awareness about seaweed will grow even more.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df2a36c75da1c0f9664d46ae0c11273158c)
 - [@ChrisPint_: - #Seaweed plays a crucial role in the ocean’s ability to absorb greenhouse gases.- Seaweed is better at absorbing CO2 emissions than trees are.- Seaweed is considered a high-value source of protein for humans and livestock.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df2a36c75da1c0f9167d56ee9c6137d1488)
-- [@ChrisPint_: The single-celled microbe, which is capable of photosynthesis as well as hunting and eating prey, could be &quot;a secret weapon in the battle against #climatechange&quot;.#CarbonDirectRemoval](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df3ab6279dd10089068d168e8c717781d8e)
 <!-- TWITTER:END -->
 
 ## Some Stats
