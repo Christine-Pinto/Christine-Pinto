@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@ChrisPint_: The European Biochar Industry Consortium is already using their EBC-Feed to certify #biochar from the right source material for feedstock use. Hope studies like this from @nebraskaforest can help to get this for the US as well.#CDR #CarbonRemoval](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df0ab6f7fdc150c9564d16de7c01279168e)
 - [@ChrisPint_: &quot;Where is #biochar’s killer app?&quot; - by @PeterOlivierOur answer: go #modular!A potential game-changer, for example, would be the autonomous &lpar;modular&rpar; mobile devices from @climaterobotics, which seem well-positioned to get us to Gt/y CO2 removal scales.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df0ab6b75d6150a9b67d369e0c5157b1c82)
 - [@ChrisPint_: Short video explaining the benefits of #BioCharand how it removes #CO2 #CDR #CarbonRemoval](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df0aa627dd6120b9066d26fe5cb13791489)
 - [@ChrisPint_: Amazing #TedTalk about #BioChar by Wae Nelson. It is incredible what this carbon gold can do for us &amp; that we used it a long time ago#CDR #CarbonRemoval](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df0aa627dd71c079766d068e8c4157b108a)
 - [@stacykauk: 5/15 @xprize $1M Milestone Award winners for carbon removal are supported by the @Shopify Sustainability Fund 🤯Look out because @carbinminerals, @heirloomcarbon, @planetary_tech, @sustaera, and @4401earth are just getting started.Congratulations!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb3e2dbe9860f8ec974d3e30bb04f76d9db69f4a76e75da130d9b66d36ae2c4167916)
-- [@ChrisPint_: Good summary and a good read for #phycologyfriday: &quot;Oceans 2050 results further #seaweed carbon science&quot;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df2a06e7bdc140d9765d56de8c71678158f)
 <!-- TWITTER:END -->
 
 ## Some Stats
