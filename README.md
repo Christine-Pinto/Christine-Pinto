@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@ChrisPint_: &quot;future generations will not excuse today&#39;s inconsequential action&quot; - David IzikowitzI completely agree with the author. The article shows different aspects e.g. Lessons From the Laws or Resilience and efficiency aligned policies &lpar;REAP&rpar; for #DAC.#CDR](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7a66f7ad716099369d26be0c21b791083)
 - [@ChrisPint_: I was looking for a simple image to explain to my family what #DAC is.I found that. Do any of you guys have a better one?#CarbonRemoval #CDRsource:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7a66a7cd91c0b9565d76ce8c1107b1d8c)
 - [@ChrisPint_: Last, though most certainly not least, Brian Baynes from @VerdoxCC explained how their electro-swing DAC solution uses far less energy than existing commercial methods. Verdox is poised to revolutionize #DAC, and we are at the edge of our seats in anticipation.#CDR](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7a2697edb1c0e9768d16ae2c3127d118d)
 - [@ChrisPint_: Kelly Erhart &lpar;@vesta_earth&rpar; stated their deployment goal of 1 Mt of #Olivine by 2027-2028. As a company we have HUGE hopes for in helping protect our planet and oceans specifically, we are excited to hear that they are ramping up in a big way.#CDR #Rockweathering](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7a2697edb1c0e9161d66ae6cb12791383)
 - [@ChrisPint_: We were so excited to hear from @jasonaramburu &lpar;@climaterobotics&rpar; about the pilots they have deployed: e.g. at a 5000 acre mixed-use farm in Texas. This solution is absolutely fantastic &amp; will undoubtedly be a huge part of the #carbonremoval portfolio this planet needs.#CDR](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7a2697edb1c0f9b65d36be5c017791c8f)
-- [@ChrisPint_: Fantastic panel discussion about different Carbon Removal Technologies at the #BNEF Summit New York.  #CDR #BioChar #Rockweathering](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7a2697edb1c0f9665d460e2c7147f1c8b)
 <!-- TWITTER:END -->
 
 ## Some Stats
