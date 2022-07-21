@@ -31,11 +31,11 @@
 ## What I tweet about
 
 <!-- TWITTER:START -->
+- [@ChrisPint_: Spannender Bericht wie verschiedene Methoden &lpar;z.b. #MobGrazing&rpar; genutzt werden um mit dem schlechten Boden &amp; dem wenigen Regen in #Brandenburg zu recht zu kommen. Ich denke das #Aktivkohle hier auch ein gute Chance hätte.  via @tazgezwitscher #CDR #Klim](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7ab697dd81c0d9b60d16ce6c4117a178c)
 - [@ChrisPint_: &quot;Liebe Grüne, springt über Euren Schatten. Keine Denkverbote...&quot;, schrieb MerzDie Frage ist ob rein aus ideologischen Gründen die Grünen gegen die Weiterführung der AKWs sind oder ob der Sicherheitscheck wirklich Probleme aufgezeigt hat.#NeinZuKohle](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7aa6378de10089361d56fe6c4107d1c83)
 - [@ChrisPint_: &quot;Auf ein gemeinsames Klimasofortprogramm konnte sich die Koalition von SPD, Grünen &amp; FDP bislang nicht einigen.&quot;Ich bin schockiert wenn ich sowas lese. Alles auf einmal ist auch nicht gut aber gar nichts machen hilft eben auch nicht.#CDR #Klimaziel](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7aa6379d8130f9b64d76de3c61a7c1283)
 - [@ChrisPint_: &quot;future generations will not excuse today&#39;s inconsequential action&quot; - David IzikowitzI completely agree with the author. The article shows different aspects e.g. Lessons From the Laws or Resilience and efficiency aligned policies &lpar;REAP&rpar; for #DAC.#CDR](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7a66f7ad716099369d26be0c21b791083)
 - [@ChrisPint_: I was looking for a simple image to explain to my family what #DAC is.I found that. Do any of you guys have a better one?#CarbonRemoval #CDRsource:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7a66a7cd91c0b9565d76ce8c1107b1d8c)
-- [@ChrisPint_: Last, though most certainly not least, Brian Baynes from @VerdoxCC explained how their electro-swing DAC solution uses far less energy than existing commercial methods. Verdox is poised to revolutionize #DAC, and we are at the edge of our seats in anticipation.#CDR](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7a2697edb1c0e9768d16ae2c3127d118d)
 <!-- TWITTER:END -->
 
 ## Some Stats
