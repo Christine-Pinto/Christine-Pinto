@@ -6,7 +6,7 @@
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/_ChristinePinto?label=Follow)](https://twitter.com/intent/follow?screen_name=_ChristinePinto)
 [![Linkedin: christine-pinto](https://img.shields.io/badge/_Christine-Pinto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Christine-Pinto/)](https://www.linkedin.com/in/Christine-Pinto/)
-![GitHub followers](https://img.shields.io/github/followers/ChrisPint?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Christine-Pinto?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://chriszie.rocks/)](https://chriszie.rocks/)
   
 </div>
