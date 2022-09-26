@@ -40,8 +40,8 @@
 
 ## Some Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ChrisPint&show_icons=true&locale=en&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Christine-Pinto&show_icons=true&locale=en&layout=compact)]()
 
-[![ChrisZie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisPint&show_icons=true&locale=en)]()
+[![ChrisZie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christine-Pinto&show_icons=true&locale=en)]()
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisPint&theme=tokyonight_duo)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Christine-Pinto&theme=tokyonight_duo)]()
