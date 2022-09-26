@@ -28,16 +28,6 @@
 - [Data-QA Attribute! A better way to select elements for UI test automation](https://dev.to/christinepinto/data-qa-attribute-a-better-way-to-select-elements-for-ui-test-automation-48lm)
 <!-- BLOG-POST-LIST:END -->
 
-## What I tweet about
-
-<!-- TWITTER:START -->
-- [@ChrisPint_: Deshalb ist es so wichtig Initiativen wie @nuclearH2 oder @CFS_energy zu unterstützen.#Kernfusion #HydrogenPower](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df6a06874d91d0b9060dc60e8c01b7a1189)
-- [@ChrisPint_: &quot;Klimaresilientes Stadtgrün&quot; Webinar vom @ZKlimaanpassung Sehr gute Bespiele wie es Würzburg &amp; Erfurt machen um Ihre Städte grüner und resilienter zu machen.Und Beispiele wie #Bürger auch mit eingebunden werden können.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df6a0687dd7100c9761d16de3c713781682)
-- [@ministryoftest: Look out for yourself and each other. 💜The community has collated some global resources for mental health awareness and support.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1236bce8d1f695038a8073c2f10bea4f2d899a2db0bd6b78da160e9a65d560e0c1127e1c8a3cc56a85)
-- [@nuclearH2: We’re thrilled to announce the launch of the Nuclear Hydrogen Initiative! Together with our 40+ partners, we’ll work to advance large-scale zero-carbon #hydrogen production with #nuclear energy through policy, finance, commercial partnerships, &amp; education.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e112ab1edc7e39532d7c974d3e30bb04f76d9db6df2ab697ddb11079368d369e6ca1a7a1c)
-- [@ChrisPint_: Spannender Bericht wie verschiedene Methoden &lpar;z.b. #MobGrazing&rpar; genutzt werden um mit dem schlechten Boden &amp; dem wenigen Regen in #Brandenburg zu recht zu kommen. Ich denke das #Aktivkohle hier auch ein gute Chance hätte.  via @tazgezwitscher #CDR #Klim](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1d28e1491b928d4f61eb1492ac7df6df7ab697dd81c0d9b60d16ce6c4117a178c)
-<!-- TWITTER:END -->
-
 ## Some Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Christine-Pinto&show_icons=true&locale=en&layout=compact)]()
