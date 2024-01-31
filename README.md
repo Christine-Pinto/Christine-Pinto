@@ -12,8 +12,8 @@
 </div>
 <br><br><br>
 
-- 💬 Ask me about **Test automation and how to change the world**
-- 👯 I’m looking to collaborate on **Making our world into a better place**
+- 💬 Ask me about **Test automation and how to cook a good curry**
+- 👯 I’m looking to collaborate on **creating new AI tools and gadgets**
 - 🌱 I’m currently learning **AI and ML**
 
 ## Languages and Tools:
@@ -32,6 +32,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Christine-Pinto&show_icons=true&locale=en&layout=compact)]()
 
-[![ChrisZie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christine-Pinto&show_icons=true&locale=en)]()
+[![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christine-Pinto&show_icons=true&locale=en)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Christine-Pinto&theme=tokyonight_duo)]()
