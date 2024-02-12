@@ -33,6 +33,7 @@
 ## What I write about
 
 <!-- BLOG-POST-LIST:START -->
+- [Embarking on a Playwright Journey: Testing Chrome Extensions](https://dev.to/christinepinto/embarking-on-a-playwright-journey-testing-chrome-extensions-9p)
 - [How to HIGHLIGHT text with Cypress](https://dev.to/christinepinto/how-to-highlight-text-with-cypress-43do)
 - [UI Test Automation Frameworks Showdown: TestCafé versus Nightwatch.js](https://dev.to/christinepinto/ui-test-automation-frameworks-showdown-testcafe-versus-nightwatch-js-2e8h)
 - [Data-QA Attribute! A better way to select elements for UI test automation](https://dev.to/christinepinto/data-qa-attribute-a-better-way-to-select-elements-for-ui-test-automation-48lm)
