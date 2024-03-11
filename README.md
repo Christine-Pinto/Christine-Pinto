@@ -33,10 +33,10 @@
 ## What I write about
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing Easier Code Comments with ChatGPT](https://dev.to/christinepinto/writing-easier-code-comments-with-chatgpt-3g89)
 - [&quot;Build Your Own Automation Engineer/QA&quot; Sprint Retrospective: A Step-by-Step Guide](https://dev.to/christinepinto/build-your-own-automation-engineerqa-sprint-retrospective-a-step-by-step-guide-38op)
-- [Embarking on a Playwright Journey: Testing Chrome Extensions](https://dev.to/christinepinto/embarking-on-a-playwright-journey-testing-chrome-extensions-9p)
+- [Setup for Testing Chrome Extensions with Playwright](https://dev.to/christinepinto/embarking-on-a-playwright-journey-testing-chrome-extensions-9p)
 - [How to HIGHLIGHT text with Cypress](https://dev.to/christinepinto/how-to-highlight-text-with-cypress-43do)
-- [UI Test Automation Frameworks Showdown: TestCafé versus Nightwatch.js](https://dev.to/christinepinto/ui-test-automation-frameworks-showdown-testcafe-versus-nightwatch-js-2e8h)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some Stats
