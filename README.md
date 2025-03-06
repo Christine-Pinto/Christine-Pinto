@@ -1,20 +1,19 @@
 <img align="left" width="200" height="200" src="https://github.com/Christine-Pinto/Christine-Pinto/blob/main/octochristine/octochristine.gif?raw=true"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307181F&size=30&width=500&lines=Hello+%F0%9F%91%8B+%F0%9F%91%A9%E2%80%8D%2C+I'm+Christine)](https://git.io/typing-svg)
-<h3 align="center">Passionate about making a change. #ChangeMaker</h3>
+<h3 align="center">Passionate about making a change. And reimangine test management tools</h3>
 <div align="center">
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/_ChristinePinto?label=Follow)](https://twitter.com/intent/follow?screen_name=_ChristinePinto)
 [![Linkedin: christine-pinto](https://img.shields.io/badge/_Christine-Pinto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Christine-Pinto/)](https://www.linkedin.com/in/Christine-Pinto/)
 ![GitHub followers](https://img.shields.io/github/followers/Christine-Pinto?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://chriszie.rocks/)](https://chriszie.rocks/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.epictestquest.com/)](https://www.epictestquest.com/)
   
 </div>
 <br><br><br>
 
-- 💬 Ask me about **Test automation and how to cook a good curry**
+- 💬 Ask me about **Test automation and Entrepreneurship**
 - 👯 I’m looking to collaborate on **creating new AI tools and gadgets**
-- 🌱 I’m currently learning **AI and Playwright**
+- 🌱 I’m currently learning **AI and Entrepreneurship**
 
 # 👩‍💼 My Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
