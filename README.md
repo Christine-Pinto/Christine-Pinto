@@ -1,7 +1,7 @@
 <img align="left" width="200" height="200" src="https://github.com/Christine-Pinto/Christine-Pinto/blob/main/octochristine/octochristine.gif?raw=true"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307181F&size=30&width=500&lines=Hello+%F0%9F%91%8B+%F0%9F%91%A9%E2%80%8D%2C+I'm+Christine)](https://git.io/typing-svg)
-<h3 align="center">Passionate about making a change. And reimangine test management tools</h3>
+<h3 align="center">Passionate about making a change. And reimagine test management tools</h3>
 <div align="center">
   
 [![Linkedin: christine-pinto](https://img.shields.io/badge/_Christine-Pinto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Christine-Pinto/)](https://www.linkedin.com/in/Christine-Pinto/)
